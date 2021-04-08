@@ -1,0 +1,3 @@
+C:\Users\Welcome to the club\source\repos\FreeThousentCodes\FreeThousentCodes\Debug\FreeThousentCodes.vcxprojAssemblyReference.cache
+C:\Users\Welcome to the club\source\repos\FreeThousentCodes\FreeThousentCodes\Debug\FreeThousentCodes.MyForm.resources
+C:\Users\Welcome to the club\source\repos\FreeThousentCodes\FreeThousentCodes\Debug\FreeThousentCodes.vcxproj.GenerateResource.cache

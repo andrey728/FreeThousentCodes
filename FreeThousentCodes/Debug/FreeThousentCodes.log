@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\Welcome to the club\source\repos\FreeThousentCodes\FreeThousentCodes\MyForm.h(124,26): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Welcome to the club\source\repos\FreeThousentCodes\FreeThousentCodes\MyForm.h(128,20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  FreeThousentCodes.vcxproj -> C:\Users\Welcome to the club\source\repos\FreeThousentCodes\Debug\FreeThousentCodes.exe
